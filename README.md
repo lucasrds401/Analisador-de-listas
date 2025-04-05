@@ -1,1 +1,1 @@
-Analisador de dados em python
+Analisador de Listas em python.
